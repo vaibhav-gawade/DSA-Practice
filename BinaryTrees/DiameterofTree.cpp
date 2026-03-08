@@ -3,6 +3,7 @@
 using namespace std;
 
 // Problem : Diameter of the binary tree
+// LeetCode Problem No. : 543
 // Approach : use postorder traversal to find the length of the right and left side
 // compare the diameter of the current branch with maximum diameter and update accordingly
 // return the longest side of the branch to the above branch

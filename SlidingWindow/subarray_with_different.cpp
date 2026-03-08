@@ -4,6 +4,7 @@
 using namespace std;
 
 // problem : subarray with k different intergers
+// LeetCode Problem No. : 992
 // approach : slidding window
 // we find the number of subarray with atmost k and atmost k-1
 // the exactly(k)=atmost(k)-atmost(k-1)
